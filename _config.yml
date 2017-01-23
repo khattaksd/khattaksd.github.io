@@ -10,10 +10,9 @@ locale                   : "en"
 title                    : "Home"
 title_separator          : "-"
 name                     : "Salman Khattak"
-description              : "JavaScript, JQuery, HTML, HTML5, CSS, CSS3, Web Programming
- Skills, E-Commerce, Teamwork, Verbal Communication, cross-browser compatibility, Web User Interface Design (UI), Security Principles, Object-Oriented Design, Web Services (REST/SOAP), Multimedia Content Development, API's"
+description              : ""
 url                      : "https://khattaksd.github.io"
-baseurl                  : "/"
+baseurl                  : ""
 repository               : "khattaksd"
 #teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -80,8 +79,8 @@ analytics:
 author:
   name             : "Salman Khattak"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person. Not."
-  location         : "Mississauga, Canada"
+  bio              : "JEE, Spring Framework, Grails, JavaScript, JQuery, HTML, HTML5, CSS, CSS3, Web Programming Skills, E-Commerce, Teamwork, Verbal Communication, cross-browser compatibility, Web User Interface Design (UI), Security Principles, Object-Oriented Design, Web Services (REST/SOAP), API's"
+  location         : "Mississauga, Ontario"
   email            :
   uri              :
   bitbucket        : khattaksd
