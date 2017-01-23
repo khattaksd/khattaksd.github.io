@@ -10,7 +10,8 @@ locale                   : "en"
 title                    : "Serendevity"
 title_separator          : "-"
 name                     : "Salman Khattak"
-description              : "..."
+description              : "JavaScript, JQuery, HTML, HTML5, CSS, CSS3, Web Programming
+ Skills, E-Commerce, Teamwork, Verbal Communication, cross-browser compatibility, Web User Interface Design (UI), Security Principles, Object-Oriented Design, Web Services (REST/SOAP), Multimedia Content Development, API's"
 url                      : "https://khattaksd.github.io"
 baseurl                  : "/"
 repository               : "khattaksd"
@@ -77,10 +78,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Salman Khattak"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "I am an amazing person. Not."
+  location         : "Mississauga, Ontario, Canada"
   email            :
   uri              :
   bitbucket        :
