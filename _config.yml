@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Serendevity"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Salman Khattak"
+description              : "..."
 url                      : "https://khattaksd.github.io"
 baseurl                  : "/"
 repository               : "khattaksd"
